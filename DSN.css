@@ -1,0 +1,196 @@
+#body{
+    background: linear-gradient(to right, rgb(24, 255, 224) 25%,rgb(111, 111, 224) 95%);
+}
+#tbd{
+    margin-top: -8px;
+    margin-left: -7px; 
+    width: 1345px;
+    height: 830px;
+    border: 1px black solid;
+    background: linear-gradient(to right, rgb(24, 255, 224) 25%,rgb(111, 111, 224) 95%);
+}
+.div8{position: relative;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;}
+.div9{position: relative;
+    bottom: 104px;
+    left: 170px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;}
+.div10{position: relative;
+    bottom: 208px;
+    left: 340px;
+    height: 102px;
+    width: 168.75px;;
+    border: 1px black solid;}
+.div11{position: relative;
+    bottom: 312px;
+    left: 510px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;}
+.div12{position: relative;
+    bottom: 416px;
+    left: 680px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;}
+.div13{position: relative;
+    bottom: 520px;
+    left: 850px;
+    height: 102px;
+    width: 168.75px;;
+    border: 1px black solid;}
+.div14{position: relative;
+    bottom: 624px;
+    left: 1020px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;}
+.div15{
+    position: relative;
+    bottom: 728px;
+    left: 1190px;
+    height: 102px;
+    width: 155px;
+    border: 1px black solid;}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7{
+    position: relative;
+    bottom: 729px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;
+}
+
+.borA1,
+.borA2,
+.borA3,
+.borA4,
+.borA5,
+.borA6,
+.borA7{
+    position: relative;
+    bottom: 1457px;
+    left: 170px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;
+    display: block;
+}
+
+.borB1,
+.borB2,
+.borB3,
+.borB4,
+.borB5,
+.borB6,
+.borB7{
+    position: relative;
+    bottom: 2185px;
+    left: 340px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;
+    display: block;
+}
+.borC1,
+.borC2,
+.borC3,
+.borC4,
+.borC5,
+.borC6,
+.borC7{
+    position: relative;
+    bottom: 2913px;
+    left: 510px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;
+    display: block;
+}
+.borD1,
+.borD2,
+.borD3,
+.borD4,
+.borD5,
+.borD6,
+.borD7{
+    position: relative;
+    bottom: 3641px;
+    left: 680px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;
+    display: block;
+}
+
+.bor1,
+.bor2,
+.bor3,
+.bor4,
+.bor5,
+.bor6,
+.bor7{
+    position: relative;
+    bottom: 4369px;
+    left: 850px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;
+    display: block;
+}
+
+.borZ1,
+.borZ2,
+.borZ3,
+.borZ4,
+.borZ5,
+.borZ6,
+.borZ7{
+    position: relative;
+    bottom: 5097px;
+    left: 1020px;
+    height: 102px;
+    width: 168.75px;
+    border: 1px black solid;
+    display: block;
+}
+
+
+.bor_1_,
+.bor_2_,
+.bor_3_,
+.bor_4_,
+.bor_5_,
+.bor_6_,
+.bor_7_{
+    position: relative;
+    bottom: 5825px;
+    left: 1190px;
+    height: 102px;
+    width: 155px;
+    border: 1px black solid;
+    display: block;
+}
+#p{
+    position: relative;
+    left: 25px;
+    height: 100px;
+    width: 125px;
+    display: none;
+}
+img{
+    position: relative;
+    left: 25px;
+    height: 100px;
+    width: 125px;
+    display: none;
+}
